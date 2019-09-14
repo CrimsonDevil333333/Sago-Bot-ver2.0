@@ -1,0 +1,2 @@
+In Sago bot ver-2 the voice output is not compilable
+The coding is a bit complex
