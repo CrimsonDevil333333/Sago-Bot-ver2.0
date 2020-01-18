@@ -59,6 +59,7 @@ def start():
 if __name__ == "__main__":
     start()
     l=reader()
+    ###### l = password of reciever gmail id passing in database/reciver...
     Mail_Recever(l)
     initializing_database()
     while(n==True):
